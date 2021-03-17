@@ -43,12 +43,14 @@ After you start the API it can take a minute or two before you can fetch the APY
 ### Consumed by third party platforms
 
 **/cmc**: Custom endpoint required by [CoinMarketCap](https://coinmarketcap.com/) to display our vaults in their yield farming section.
-**/supply**: Used by [Coingecko](https://coingecko.com) to display BIFI's total supply and circulating supply.
+
+**/supply**: Used by [Coingecko](https://coingecko.com) to display BMB's total supply and circulating supply.
 
 ### Consumed by the [dashboard](https://dashboard.bm.finance)
 
 **/earnings**: Used to display the total and daily earnings of the platform.
-**/holders**: Used to display the total number of holders. This calc takes into account users with 0 BIFI in their wallet, but BIFI staked in the reward pool.
+
+**/holders**: Used to display the total number of holders. This calc takes into account users with 0 BMB in their wallet, but BMB staked in the reward pool.
 
 ## Contribute
 
