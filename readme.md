@@ -1,4 +1,4 @@
-# Bm API
+# API for bm.finance
 
 API that powers [Bm Finance](https://app.bm.finance). You can find the repo for the frontend [here](https://github.com/bmfinance/bm-app).
 
